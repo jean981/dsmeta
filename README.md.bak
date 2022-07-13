@@ -55,13 +55,14 @@
 :warning: Construction :construction:
 
 ## Casos de Uso
-
+Build a simple application with two classes. Each class has 2 instances of objects that will be in relationship. In this way we intend to consolidate the concept of objects and relationships between instances, in addition to using Spring Boot's dependency injection mechanism to obtain an instance of the Class repository.
 
 ## Linguagens, dependencias e libs utilizadas :books:
 - Java 
 - Maven
+- Rest
 - Spring Boot 
-- React
+- Spring Data JPA with H2-DB
 
 ## Resolvendo Problemas :exclamation:
 
@@ -71,9 +72,14 @@
 
 ## Tarefas em aberto
 
-:memo: Links sobre 
+:memo: Links sobre REST
+https://restfulapi.net/
+https://martinfowler.com/articles/richardsonMaturityModel.html
+https://pt.stackoverflow.com/questions/45783/o-que-%C3%A9-rest-e-restful/45787
 
 ## Desenvolvedores :: Colaboradores :octopus:
+
+Liste o time responsável pelo desenvolvimento do projeto
 
 ## Licença 
 
