@@ -1,10 +1,12 @@
-# Projeto APP :: DsMeta 
+# Projeto APP :: DSMeta
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
   </p>
 <p align="center">
+
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
    
 <img src = "https://img.shields.io/badge/version-v0.0.1-blue">
 <img src="https://img.shields.io/badge/%20-help--wanted-%23159818">
@@ -25,16 +27,12 @@
 ## Descrição do projeto 
 
 <p align="justify">
- 
+
 </p>
 
 ## Funcionalidades
 
-:heavy_check_mark:  
-
-:heavy_check_mark:
-
-:heavy_check_mark:
+:heavy_check_mark: 
 
 ## Layout ou Deploy da Aplicação  :construction_worker:
 :warning: Em construção :construction:
@@ -55,27 +53,24 @@
 :warning: Construction :construction:
 
 ## Casos de Uso
-Build a simple application with two classes. Each class has 2 instances of objects that will be in relationship. In this way we intend to consolidate the concept of objects and relationships between instances, in addition to using Spring Boot's dependency injection mechanism to obtain an instance of the Class repository.
+
 
 ## Linguagens, dependencias e libs utilizadas :books:
 - Java 
 - Maven
-- Rest
 - Spring Boot 
 - Spring Data JPA with H2-DB
+- React
 
 ## Resolvendo Problemas :exclamation:
 
- <img src="https://img.shields.io/badge/open%20issues-1-yellow">  
+ <img src="https://img.shields.io/badge/open%20issues-0-yellow">  
 
-<img src="https://img.shields.io/badge/closed%20issues-1-red">
+<img src="https://img.shields.io/badge/closed%20issues-0-red">
 
 ## Tarefas em aberto
 
-:memo: Links sobre REST
-https://restfulapi.net/
-https://martinfowler.com/articles/richardsonMaturityModel.html
-https://pt.stackoverflow.com/questions/45783/o-que-%C3%A9-rest-e-restful/45787
+:memo: Links sobre :
 
 ## Desenvolvedores :: Colaboradores :octopus:
 
