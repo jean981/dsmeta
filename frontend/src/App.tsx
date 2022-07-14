@@ -10,7 +10,7 @@ function App() {
         <section id="sales">
           <div className="dsmeta-container">
             <h1>Olá Mundão sem porteira!</h1>
-            <NotificationButton />
+            <SalesCard />
           </div>
         </section>
       </main>
