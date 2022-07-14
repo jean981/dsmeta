@@ -1,12 +1,13 @@
-# Projeto APP :: DSMeta
-
+<p align="center">
+  # Projeto APP :: DSMeta
+</p>
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
   </p>
 <p align="center">
 
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM PRODUCAO&color=GREEN&style=for-the-badge"/>
    
 <img src = "https://img.shields.io/badge/version-v0.0.1-blue">
 <img src="https://img.shields.io/badge/%20-help--wanted-%23159818">
@@ -39,18 +40,20 @@
 
 ## Pré-requisitos
 
+<p align="left">
 :warning: [Git](https://github.com/)
 :warning: Knowledge in: 
     :warning: Programming logic
     :warning: OO Fundamentals
     :warning: Basic database
+</p>
 
 ## Como rodar a aplicação :arrow_forward:
 
 :warning: Em construção :construction:
 
 ## Como rodar os testes :dizzy:
-:warning: Construction :construction:
+:warning: Em construção :construction:
 
 ## Casos de Uso
 
