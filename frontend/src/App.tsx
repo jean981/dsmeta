@@ -13,7 +13,6 @@ function App() {
       <main>
         <section id="sales">
           <div className="dsmeta-container">
-            <h1>Olá Mundão sem porteira!</h1>
             <SalesCard />
           </div>
         </section>

@@ -34,9 +34,8 @@ public class SmsService {
 		
 		String date = sale.getDate().getMonthValue() + "/" + sale.getDate().getYear();
 		
-		String msg = "Notice:\n The seller "+ sale.getSellerName()+" was awesome!"
-					+"\n He reached the sales target with the value of R$"+ String.format(
-					"%.2f",sale.getAmount()) + "\n So he was the highlight of the "+date;
+		String msg = "Notice:\n A W E S O M E!\n The seller "+ sale.getSellerName()+"was the highlight of the "+date
+					+" reached the sales target with the value of R$"+ String.format("%.2f",sale.getAmount());
 		
 		Twilio.init(twilioSid, twilioKey);
 
